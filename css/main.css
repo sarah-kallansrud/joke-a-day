@@ -91,10 +91,36 @@ body {
   background-color: lightpink;
 }
 
-.joke-box {
+main {
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+
+.wrapper {
+  padding-top: 25%;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.joke-box {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid 1px #fff;
 }
 
 
