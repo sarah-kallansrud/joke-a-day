@@ -1,2 +1,2 @@
 var jokes = ["I'm afraid for the calendar. Its days are numbered.", "My wife said I should do lunges to stay in shape. That would be a big step forward.", "What do a tick and the Eiffel Tower have in common? They're both Paris sites.", 
-"What did the ocean say to the beach? Nothing, it just waved.", "How does the moon cut his hair? Eclipse it.", "I only know 25 letters of the alphabet. I don't know y."];
+"What did the ocean say to the beach? Nothing, it just waved.", "How does the moon cut his hair? Eclipse it.", "I only know 25 letters of the alphabet. I don't know y.", "What is the #1 cause of dry skin? A bath towel!"];
